@@ -1,0 +1,12 @@
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\bin\Debug\SaleDB.mdf
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\bin\Debug\SaleDB_log.ldf
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\bin\Debug\SalesManagement.exe.config
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\bin\Debug\SalesManagement.exe
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\bin\Debug\SalesManagement.pdb
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.Form1.resources
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.csproj.CoreCompileInputs.cache
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.exe
+D:\IDB-IT\Online Class\Second Phase.29thApril\The XML,ADO.net,Crystal Report\ADO.Net\FinalProject\SalesManagementSln\SalesManagement\obj\Debug\SalesManagement.pdb
